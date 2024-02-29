@@ -1,0 +1,1 @@
+# Calculatig-Average-By-Java-Scriipt
